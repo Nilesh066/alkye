@@ -1,0 +1,13 @@
+.business-category {
+  padding-left: 10px;
+  padding-right: 250px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgb(121, 117, 117);
+  border: solid rgb(170, 168, 168) 1px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+.detail {
+  margin-left: -200px;
+}

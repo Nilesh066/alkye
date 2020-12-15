@@ -1,0 +1,29 @@
+nav {
+  margin-top: -50px;
+  margin-left: 650px;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 30px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  padding-top: 8px;
+}
+nav li:hover {
+  color: orange;
+  cursor: pointer;
+}
+.sign-up-button {
+  padding: 5px;
+  color: rgb(62, 191, 235);
+  border: 2px solid rgb(62, 191, 235);
+  background-color: white;
+}
+header {
+  color: rgb(62, 191, 235);
+  font-weight: bold;
+  margin-left: 50px;
+  cursor: pointer;
+}
